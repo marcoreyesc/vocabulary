@@ -6,9 +6,9 @@ require './Evaluator.rb'
 
 class Examinator 
 
-	def initialize file_loader
+	def initialize file_loader, nativeLenguage
 		@file_loader = file_loader
-		@loaded_words = @file_loader.load 
+		@loaded_words = @file_loader.load nativeLenguage
 		puts "temos lectura de archivo de #{@loaded_words.size} registros"
 		@selector = Selector.new(@loaded_words)
 	end 
