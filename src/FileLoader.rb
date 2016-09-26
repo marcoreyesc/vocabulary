@@ -11,23 +11,21 @@ class FileLoader
 		@file_path = file_path
 	end
 
-	def load
+	def load nativeLenguage
 		Encoding.default_external = Encoding.list[1]
 		File.open(@file_path, "r") { |f|  
 			f.each_line do |line|
 				if !line.start_with? "#" then
 					split_line = line.split("=")
 					word = Word.new
-					split_line.each_index do |index|
-						case index 
-						when  0
-							word.local_name = split_line[index].strip
-						when 1
-							word.foreign_name = split_line[index].split(",").collect{|x| x.strip}
-						when 2
-							word.rate = split_line[index].to_i
-						end
-					end
+					if nativeLenguage.eql? "spanish" then
+						word.local_name = split_line[0].strip
+						word.foreign_name = split_line[1].split(",").collect{|x| x.strip}
+					else
+						word.local_name = split_line[1].split(",").collect{|x| x.strip}[0]
+						word.foreign_name = split_line[0].strip
+					end	
+					word.rate = split_line[2].to_i
 					
 					@words << word
 				end
@@ -43,7 +41,11 @@ class FileLoader
 		File.rename(@file_path, @file_path+".bak")
 		out_file = File.new @file_path, "w"
 		words.each{|pal|
-			line = "#{pal.local_name}=#{pal.foreign_name.join(",")}=#{pal.rate} "
+			if nativeLenguage? "spanish" then
+				line = "#{pal.local_name}=#{pal.foreign_name.join(",")}=#{pal.rate} "
+			else
+				line = "#{pal.foreign_name.join(",")}=#{pal.local_name}=#{pal.rate} "
+			end
 			out_file.puts line
 		}
 		out_file.close
