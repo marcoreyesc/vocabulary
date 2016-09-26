@@ -47,7 +47,7 @@ class Menu_File
 				final_option = selected_option.to_i 
 				final_option -= 1
 				file_loader = FileLoader.new(@repository_path+@options[final_option]+".txt")
-				examinator = Examinator.new(file_loader) 
+				examinator = Examinator.new(file_loader,"english") 
 				examinator.do_exam
 			end 
 		end while selected_option != "_out"
