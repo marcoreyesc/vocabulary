@@ -1,44 +1,44 @@
-dream=soñar=-36 
-nod=asentir (con la cabeza)=-33 
-laugh=reirse=-28 
-escape=escapar(se)=-29 
-praise=alabar,elogiar=-23 
-spread=extender(se),propagar=-24 
-glance=echar un vistazo=-19 
+dream=soñar=-35 
+nod=asentir (con la cabeza)=-32 
+escape=escapar(se)=-28 
+laugh=reirse=-27 
+spread=extender(se),propagar=-23 
+praise=alabar,elogiar=-22 
 assure=asegurar(se)=-19 
-check=comprobar,controlar=-17 
+glance=echar un vistazo=-18 
+check=comprobar,controlar=-16 
 risk=arriesgar(se)=-17 
-pray=rezar,orar=-15 
-trade=cambiar,intercambiar=-17 
-design=disenar=-15 
-comply=cumplir (un requisito),obedecer=-11 
-pause=hacer una pausa=-10 
-succeed=tener exito=-8 
-dare=atreverse=-8 
-rush=tener prisa,ir rapido=-8 
-search=buscar (en profundidad)=-8 
+trade=cambiar,intercambiar=-16 
+design=disenar=-14 
+pray=rezar,orar=-14 
+comply=cumplir (un requisito),obedecer=-10 
+pause=hacer una pausa=-9 
+succeed=tener exito=-7 
+dare=atreverse=-7 
+search=buscar (en profundidad)=-7 
+rush=tener prisa,ir rapido=-7 
 desire=desear=-6 
-join=apuntarse,unir(se)=-6 
-shock=ofender,escandalizar=-6 
-dress=vestir=-5 
-expect=esperar=-4 
-wish=desear=-3 
-treat=tratar,invitar a alguien=-2 
-reply=contestar=-2 
-seem=parecer=0 
-waste=desperdiciar,malgastar=0 
-belong=pertenecer=1 
-carry=llevar=2 
-delay=retrasar=2 
-move=mover,mudar=2 
-remain=permanecer=3 
-whisper=susurrar=3 
-receive=recibir=3 
-guard=vigilar=4 
-shout=gritar=4 
-need=necesitar=4 
-support=mantener,sostener=4 
-stop=parar,dejar de hacer algo=5 
+shock=ofender,escandalizar=-5 
+join=apuntarse,unir(se)=-5 
+dress=vestir=-4 
+expect=esperar=-3 
+wish=desear=-2 
+reply=contestar=-1 
+treat=tratar,invitar a alguien=-1 
+waste=desperdiciar,malgastar=1 
+seem=parecer=1 
+belong=pertenecer=2 
+carry=llevar=3 
+move=mover,mudar=3 
+delay=retrasar=3 
+remain=permanecer=4 
+whisper=susurrar=4 
+receive=recibir=4 
+guard=vigilar=5 
+shout=gritar=5 
+need=necesitar=5 
+support=mantener,sostener=5 
+ruin=arruinar=5 
 use=utilizar=5 
 blame=culpar=5 
 prove=demostrar=5 
@@ -103,7 +103,7 @@ learn=aprender=5
 cross=cruzar=5 
 cover=cubrir=5 
 hug=abrazar=5 
-ruin=arruinar=5 
+stop=parar,dejar de hacer algo=5 
 consider=considerar,plantear=5 
 say=decir,contar=5 
 close=cerrar=5 
