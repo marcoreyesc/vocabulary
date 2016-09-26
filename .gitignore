@@ -1,2 +1,2 @@
 #igonorar los cambios en los archivos de trabajo
-repository/*.txt
+./repository/*.txt
