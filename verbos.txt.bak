@@ -1,0 +1,141 @@
+dream=soñar=-33 
+nod=asentir (con la cabeza)=-30 
+praise=alabar,elogiar=-20 
+escape=escapar(se)=-22 
+laugh=reirse=-23 
+spread=extender(se),propagar=-18 
+design=disenar=-17 
+glance=echar un vistazo=-17 
+pause=hacer una pausa=-15 
+check=comprobar,controlar=-19 
+dare=atreverse=-14 
+succeed=tener exito=-14 
+pray=rezar,orar=-16 
+rush=tener prisa,ir rapido=-14 
+trade=cambiar,intercambiar=-12 
+join=apuntarse,unir(se)=-12 
+comply=cumplir (un requisito),obedecer=-11 
+search=buscar (en profundidad)=-10 
+expect=esperar=-10 
+assure=asegurar(se)=-10 
+desire=desear=-7 
+shock=ofender,escandalizar=-6 
+dress=vestir=-5 
+waste=desperdiciar,malgastar=-5 
+treat=tratar,invitar a alguien=-6 
+seem=parecer=-4 
+risk=arriesgar(se)=-5 
+carry=llevar=-3 
+belong=pertenecer=-3 
+wish=desear=-4 
+remain=permanecer=-3 
+shout=gritar=-2 
+support=mantener,sostener=-2 
+guard=vigilar=-2 
+reply=contestar=-3 
+whisper=susurrar=-1 
+need=necesitar=-1 
+receive=recibir=-2 
+blame=culpar=-1 
+display=exhibir=0 
+cease=terminar,cesar=0 
+delay=retrasar=0 
+use=utilizar=0 
+stop=parar,dejar de hacer algo=-1 
+ruin=arruinar=0 
+claim=afirmar,declarar=1 
+prove=demostrar=1 
+stay=quedarse=1 
+pick=elegir,seleccionar=2 
+rest=descansar=2 
+reward=premiar=2 
+save=ahorrar,guardar=2 
+move=mover,mudar=1 
+return=devolver=2 
+gain=aumentar,obtener=3 
+resolve=resolver=3 
+smile=sonreir=3 
+follow=seguir a alguien=3 
+demand=exigir=3 
+exercise=hacer ejercicio=4 
+remove=quitar=4 
+control=gobernar,mandar,conducir=5 
+happen=suceder,ocurrir=5 
+drop=dejar caer=5 
+provide=proveer,proporcionar=5 
+suffer=sufrir=5 
+wash=lavar=5 
+thank=dar las gracias,agradecer=5 
+avoid=evitar=5 
+interview=entrevistar=5 
+call=llamar,bautizar=5 
+turn=girar,dar la vuelta=5 
+marry=casarse=5 
+die=morir=5 
+distribute=distribuir=5 
+watch=mirar=5 
+apply=aplicar,solicitar,pedir=5 
+cause=causar=5 
+fill=llenar=5 
+copy=copiar=5 
+discover=descubrir=5 
+argue=discutir=5 
+inform=informar,notificar=5 
+open=abrir=5 
+paint=pintar=5 
+explain=explicar=5 
+exist=existir=5 
+point=señalar,indicar,apuntar=5 
+practice=practicar=5 
+like=gustar,agradar=5 
+end=terminar,finalizar=5 
+hate=odiar=5 
+promise=prometer=5 
+doubt=dudar=5 
+lift=levantar,alzar=5 
+imagine=imaginar=5 
+kill=matar=5 
+destroy=destruir,destrozar=5 
+look=mirar,parecer=5 
+listen=escuchar=5 
+include=incluir=5 
+learn=aprender=5 
+cross=cruzar=5 
+cover=cubrir=5 
+hug=abrazar=5 
+lie=mentir=5 
+consider=considerar,plantear=5 
+say=decir,contar=5 
+close=cerrar=5 
+clean=limpiar=5 
+serve=servir=5 
+share=compartir=5 
+mark=marcar=5 
+talk=hablar=5 
+sign=firmar,señalar=5 
+touch=tocar=5 
+kiss=besar=5 
+wait=esperar=5 
+live=vivir=5 
+walk=andar,caminar=5 
+want=querer=5 
+surprise=sorprender=5 
+love=amar,querer=5 
+obtain=obtener=5 
+depart=partir,irse=5 
+contain=contener=5 
+dance=bailar=5 
+proceed=proceder=5 
+believe=creer=5 
+work=trabajar=5 
+try=intentar,probar=5 
+visit=visitar=5 
+attach=adjuntar,pegar=5 
+add=añadir,agregar,sumar=5 
+appear=aparecer=5 
+admit=admitir=5 
+agree=estar de acuerdo=5 
+approach=acercarse=5 
+answer=contestar=5 
+accept=aceptar=5 
+advance=avanzar=5 

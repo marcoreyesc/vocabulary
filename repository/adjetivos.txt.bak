@@ -1,0 +1,119 @@
+black=negro=1 
+blue=azul=1 
+brown=marrón=-3 
+gray=gris=0 
+green=verde=1 
+yellow=amarillo=1 
+purple=morado,púrpura=1 
+orange=naranja=1 
+red=rojo=1 
+white=blanco=1 
+pink=rosado=0 
+big, large=grande=0 
+small=pequeño=1 
+deep=profundo=-3 
+shallow=poco profundo=-3 
+wide=ancho=-3 
+narrow=estrecho=-3 
+long=largo (de distancia y de tiempo)=-3 
+short=corto (de distancia y de tiempo)=-3 
+thick=grueso=-3 
+thin=fino=-3 
+fat=gordo=1 
+enormous, huge=enorme=1 
+tiny=muy pequeño=-3 
+circular=circular=1 
+round=redondo,redondeado=1 
+square=cuadriculado=-3 
+triangular=triangular=1 
+rectangular=rectangular=1 
+straight=recto=-3 
+curved=que tiene curva=-3 
+bumpy=que tiene bultos o baches=-3 
+sweet=dulce=1 
+bitter=amargo=-3 
+fresh=fresco=1 
+sour=ácido=-3 
+salty=salado=1 
+spicy=picante=-3 
+creamy=cremoso=1 
+delicious=delicioso=1 
+disgusting=asqueroso=-3 
+flavorful=sabroso=-3 
+good=bueno=1 
+bad=malo=1 
+clean=limpio=1 
+dirty=sucio=1 
+neat, tidy=ordenado=-3 
+messy=desordenado=-3 
+broken=roto=1 
+dark=oscuro=-3 
+light=ligero,claro=-3 
+bright=brillante=-3 
+difficult=difícil=-3 
+easy=fácil=0 
+empty=vacío=-3 
+full=lleno=1 
+expensive=caro=1 
+inexpensive, cheap=barato=1 
+fast=rápido=0 
+slow=lento=1 
+foreign=extranjero=-3 
+local=local=1 
+hard=duro,difícil=-3 
+soft=suave,blando=1 
+heavy=pesado=1 
+new=nuevo=1 
+young=joven=1 
+old=viejo=1 
+ancient=muy muy viejo=-3 
+noisy=ruidoso=-3 
+loud=alto (de volumen)=-3 
+quiet=bajo (de volumen)=-3 
+silent=silencioso=-3 
+powerful=poderoso=1 
+strong=fuerte=1 
+weak=débil=-3 
+correct, right=correcto=1 
+wrong, incorrect=incorrecto=1 
+wet=mojado=-3 
+dry=seco=-3 
+hot=caliente,caluroso=1 
+warm=cálido (menos que caliente)=-3 
+cold=frío=1 
+cool=fresco (menos que frio)=-3 
+frozen=congelado=1 
+ugly=feo=1 
+beautiful=hermoso=-3 
+great, fantastic=fantástico=-3 
+excellent=excelente=1 
+wonderful=maravilloso=1 
+rich, wealthy=rico=-3 
+poor=pobre=0 
+elderly=viejo (una persona)=-3 
+happy=feliz,alegre=1 
+sad=triste=1 
+kind, nice=amable,simpático=-3 
+friendly=amigable=1 
+mean=tacaño (UK),antipático (US)=-3 
+generous=generoso=1 
+affectionate=cariñoso=-3 
+intelligent=inteligente=1 
+stupid, not very intelligent=estúpido=0 
+interesting=interesante=1 
+boring=aburrido (que aburre a otras=-3 
+personas)=english=-3 
+stubborn=cabezota,tenaz=-3 
+honest=honesto=1 
+dishonest=deshonesto=1 
+optimistic=optimista=1 
+pessimistic=pesimista=1 
+polite=educado,cortés=-3 
+rude=maleducado,borde=-3 
+energetic=energético=-3 
+open-minded=de mente abierta=-3 
+closed-minded=de mente cerrada=1 
+talkative=hablador=-3 
+extroverted, outgoing=extrovertido=1 
+introverted=introvertido=1 
+timid, shy=tímido=0 

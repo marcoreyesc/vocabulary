@@ -1,0 +1,119 @@
+foreign=extranjero=-3 
+talkative=hablador=-6 
+brown=marrón=-2 
+hard=duro,difícil=-2 
+open-minded=de mente abierta=-2 
+energetic=energético=-3 
+rude=maleducado,borde=-6 
+polite=educado,cortés=-6 
+stubborn=cabezota,tenaz=-6 
+personas)=english=-6 
+ancient=muy muy viejo=-6 
+noisy=ruidoso=-2 
+boring=aburrido (que aburre a otras=-6 
+deep=profundo=-2 
+shallow=poco profundo=-6 
+wide=ancho=-2 
+narrow=estrecho=-6 
+long=largo (de distancia y de tiempo)=-6 
+short=corto (de distancia y de tiempo)=-6 
+thick=grueso=-6 
+thin=fino=-3 
+loud=alto (de volumen)=-6 
+affectionate=cariñoso=-3 
+tiny=muy pequeño=-2 
+mean=tacaño (UK),antipático (US)=-6 
+kind, nice=amable,simpático=-6 
+square=cuadriculado=-3 
+elderly=viejo (una persona)=-6 
+empty=vacío=-3 
+straight=recto=-2 
+curved=que tiene curva=-6 
+bumpy=que tiene bultos o baches=-6 
+rich, wealthy=rico=-2 
+bitter=amargo=-6 
+great, fantastic=fantástico=-3 
+sour=ácido=-6 
+beautiful=hermoso=-2 
+spicy=picante=-2 
+cool=fresco (menos que frio)=-6 
+warm=cálido (menos que caliente)=-6 
+disgusting=asqueroso=-3 
+flavorful=sabroso=-6 
+dry=seco=-6 
+wet=mojado=-2 
+weak=débil=-6 
+difficult=difícil=-3 
+neat, tidy=ordenado=-6 
+messy=desordenado=-2 
+quiet=bajo (de volumen)=-6 
+dark=oscuro=-3 
+light=ligero,claro=-2 
+bright=brillante=-2 
+silent=silencioso=-2 
+easy=fácil=0 
+poor=pobre=1 
+stupid, not very intelligent=estúpido=-3 
+big, large=grande=1 
+pink=rosado=1 
+fast=rápido=0 
+gray=gris=1 
+timid, shy=tímido=-1 
+excellent=excelente=1 
+slow=lento=2 
+soft=suave,blando=2 
+heavy=pesado=2 
+new=nuevo=2 
+young=joven=2 
+old=viejo=2 
+inexpensive, cheap=barato=2 
+expensive=caro=2 
+full=lleno=2 
+broken=roto=2 
+dirty=sucio=2 
+powerful=poderoso=2 
+strong=fuerte=2 
+clean=limpio=2 
+correct, right=correcto=2 
+wrong, incorrect=incorrecto=2 
+bad=malo=2 
+good=bueno=2 
+hot=caliente,caluroso=2 
+delicious=delicioso=1 
+cold=frío=2 
+creamy=cremoso=2 
+frozen=congelado=2 
+ugly=feo=2 
+salty=salado=2 
+fresh=fresco=2 
+local=local=1 
+wonderful=maravilloso=2 
+sweet=dulce=2 
+rectangular=rectangular=2 
+triangular=triangular=2 
+happy=feliz,alegre=1 
+sad=triste=2 
+round=redondo,redondeado=2 
+friendly=amigable=2 
+circular=circular=1 
+generous=generoso=1 
+enormous, huge=enorme=2 
+intelligent=inteligente=2 
+fat=gordo=2 
+interesting=interesante=2 
+small=pequeño=2 
+white=blanco=2 
+red=rojo=2 
+honest=honesto=2 
+dishonest=deshonesto=2 
+optimistic=optimista=1 
+pessimistic=pesimista=2 
+orange=naranja=2 
+purple=morado,púrpura=2 
+yellow=amarillo=2 
+green=verde=2 
+closed-minded=de mente cerrada=2 
+blue=azul=1 
+extroverted, outgoing=extrovertido=2 
+introverted=introvertido=2 
+black=negro=2 

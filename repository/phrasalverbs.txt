@@ -1,0 +1,13 @@
+get up= levantarse
+wake up= despertarse
+go out=salir de fiesta 
+go out=salir romanticamente
+turn on=encender
+turn off=apagar 
+put on=ponerse ropa
+take off=quitarse ropa
+look for=buscar
+look after=cuidar
+work out=calcular
+work out=solucionar
+work out=hacer ejercicio
