@@ -1,44 +1,44 @@
-dream=soñar=-36 
-nod=asentir (con la cabeza)=-33 
-laugh=reirse=-28 
-escape=escapar(se)=-29 
-praise=alabar,elogiar=-23 
-spread=extender(se),propagar=-24 
-glance=echar un vistazo=-19 
-assure=asegurar(se)=-19 
-check=comprobar,controlar=-17 
-risk=arriesgar(se)=-17 
-pray=rezar,orar=-15 
-trade=cambiar,intercambiar=-17 
-design=disenar=-15 
-comply=cumplir (un requisito),obedecer=-11 
-pause=hacer una pausa=-10 
-succeed=tener exito=-8 
-dare=atreverse=-8 
-rush=tener prisa,ir rapido=-8 
-search=buscar (en profundidad)=-8 
-desire=desear=-6 
-join=apuntarse,unir(se)=-6 
-shock=ofender,escandalizar=-6 
-dress=vestir=-5 
-expect=esperar=-4 
-wish=desear=-3 
-treat=tratar,invitar a alguien=-2 
-reply=contestar=-2 
-seem=parecer=0 
-waste=desperdiciar,malgastar=0 
-belong=pertenecer=1 
-carry=llevar=2 
-delay=retrasar=2 
-move=mover,mudar=2 
-remain=permanecer=3 
-whisper=susurrar=3 
-receive=recibir=3 
-guard=vigilar=4 
-shout=gritar=4 
-need=necesitar=4 
-support=mantener,sostener=4 
+dream=soñar=-37 
+nod=asentir (con la cabeza)=-30 
+escape=escapar(se)=-27 
+laugh=reirse=-27 
+spread=extender(se),propagar=-21 
+praise=alabar,elogiar=-20 
+assure=asegurar(se)=-18 
+glance=echar un vistazo=-17 
+risk=arriesgar(se)=-15 
+check=comprobar,controlar=-14 
+trade=cambiar,intercambiar=-14 
+design=disenar=-12 
+pray=rezar,orar=-12 
+comply=cumplir (un requisito),obedecer=-8 
+pause=hacer una pausa=-7 
+dare=atreverse=-5 
+succeed=tener exito=-5 
+search=buscar (en profundidad)=-5 
+rush=tener prisa,ir rapido=-5 
+desire=desear=-4 
+shock=ofender,escandalizar=-4 
+join=apuntarse,unir(se)=-3 
+dress=vestir=-2 
+expect=esperar=-1 
+wish=desear=0 
+reply=contestar=1 
+treat=tratar,invitar a alguien=1 
+seem=parecer=3 
+waste=desperdiciar,malgastar=3 
+belong=pertenecer=4 
+carry=llevar=5 
+move=mover,mudar=5 
+delay=retrasar=5 
+guard=vigilar=5 
+whisper=susurrar=5 
+receive=recibir=5 
 stop=parar,dejar de hacer algo=5 
+shout=gritar=5 
+need=necesitar=5 
+support=mantener,sostener=5 
+ruin=arruinar=5 
 use=utilizar=5 
 blame=culpar=5 
 prove=demostrar=5 
@@ -103,7 +103,7 @@ learn=aprender=5
 cross=cruzar=5 
 cover=cubrir=5 
 hug=abrazar=5 
-ruin=arruinar=5 
+remain=permanecer=5 
 consider=considerar,plantear=5 
 say=decir,contar=5 
 close=cerrar=5 
